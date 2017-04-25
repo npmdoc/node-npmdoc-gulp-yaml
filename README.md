@@ -1,6 +1,6 @@
 # npmdoc-gulp-yaml
 
-#### api documentation for  [gulp-yaml (v1.0.1)](https://github.com/crissdev/gulp-yaml)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-yaml.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-yaml) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-yaml.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-yaml)
+#### basic api documentation for  [gulp-yaml (v1.0.1)](https://github.com/crissdev/gulp-yaml)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-yaml.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-yaml) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-yaml.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-yaml)
 
 #### Convert YAML to JSON
 
@@ -79,7 +79,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
